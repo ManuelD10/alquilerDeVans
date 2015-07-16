@@ -1,0 +1,49 @@
+body{
+	background-image: url(../images/background.png);
+	margin: 0px;
+	padding: 0px;
+}
+
+/*----------------- style: En Construcción -----------------*/
+.title{
+	color: #B2020F;
+	font-family: 'Lato', sans-serif;
+	font-weight: 900;
+ 	font-size: 45px;
+ 	margin-top: 50px;
+ 	text-align: center;
+}
+.sub-title{
+	color: #4D4D4D;
+	font-family: 'Lato', sans-serif;
+	font-weight: 900;
+ 	font-size: 45px;
+ 	text-align: center;	
+}
+.car1{
+	background: url(../images/car1.png);
+	margin: 0 auto;
+  	margin-top: 50px;
+	height: 258px;
+	width: 392px;
+}
+.title-contactenos{
+	color: black;
+	font-size: 20px;
+	font-family: 'Lato', sans-serif;
+	margin-left: 15px;
+}
+.senefa-numbers{
+	background: black;
+	height: 66px;
+	padding-top: 10px;
+	  padding-bottom: 5px;
+	width: 100%;
+}
+.numeros-contactos{
+	background: url(../images/contactos.png) no-repeat;
+	height: 41px;
+	margin: 0 auto;
+	margin-top: 10px;
+	width: 490px;
+}
