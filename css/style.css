@@ -123,6 +123,22 @@ body{
 	height: 200px;
 	width: 100%;
 }
+.list-home{
+	background: url(../images/bullet-car.png) no-repeat;
+	height: 40px;
+	margin-left: 19px;
+	margin-top: 15px;
+  	padding-left: 25px;
+  	width: 250px;
+}
+.list-home2{
+	background: url(../images/bullet-car.png) no-repeat;
+	height: 30px;
+	margin-left: 19px;
+	margin-top: 12px;
+  	padding-left: 25px;
+  	width: 250px;
+}
 .creditos{
 	background: #4d4d4d;
 	color: white;
