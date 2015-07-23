@@ -1,5 +1,6 @@
 body{
 	background-image: url(../images/background.png);
+	font-family: 'Lato', sans-serif;
 	margin: 0px;
 	padding: 0px;
 }
@@ -33,6 +34,7 @@ body{
 }
 .btn-nosotros-toolbar{
 	border-right: 1px solid white;
+	color: white;
 	cursor: pointer;
 	height: 31px;
 	margin-top: 3px;
@@ -182,7 +184,84 @@ body{
 	border-radius: 6px; 
 	margin-left: 10px;
 }
-.ctn-input-asunto{
-	margin-left: 60px;
-	margin-top: 20px;
+.input-asunto{
+	border-radius: 6px; 
 }
+.ctn-input-asunto{
+	border-radius: 6px; 
+	margin-left: 260px;
+	margin-top: -118px;
+}
+.btn-enviar{
+	background: #b2020f;
+	border: none;
+	color: white;
+	float: right;
+	margin-right: 49px;
+	margin-top: 6px;
+}
+
+/*---------------- style Nosotros-----------------*/
+.ctn-nosotros-info{
+	height: 700px;
+	margin-top: 25px;
+	width: 100%;
+}
+.ctn-text-nosotros{
+	margin: 0 auto; 
+	margin-top: 30px;
+	height: 200px;
+	width: 950px;
+}
+.title-nosotros{
+	color: #4d4d4d;
+	font-size: 40px;
+  	font-weight: bold;
+}
+.info-nosotros{
+	  background: #4d4d4d;
+	  border-radius: 8px;
+	  color: white;
+	  font-size: 13px;
+	  height: 107px;
+	  margin: 0 auto;
+	  padding: 25px;
+	  width: 898px;
+}
+.list-home-nosotros{
+	background: url(../images/bullet-car.png) no-repeat;
+	color: white;
+	font-size: 14px;
+	height: 40px;
+	margin-left: 99px;
+	margin-top: -85px;
+	padding-left: 25px;
+	width: 390px;
+}
+.list-home-nosotros2{
+	background: url(../images/bullet-car.png) no-repeat;
+	color: white;
+	font-size: 14px;
+	height: 40px;
+	margin-left: 99px;
+	margin-top: -58px;
+	padding-left: 25px;
+	width: 390px;
+}
+.ctn-ofrecemos{
+	background: red;
+	margin-top: 20px;
+	height: 137px;
+	width: 331px;
+}
+.ctn-caracteristicas{
+	background: red;
+	height: 137px;
+	margin-left: 50px;
+	margin-top: 20px;
+	width: 331px;
+}
+
+
+
+
