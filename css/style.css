@@ -202,8 +202,20 @@ body{
 }
 
 /*---------------- style Nosotros-----------------*/
+.arrow-right-nosotros{
+	  background: #b2020f;
+	  color: white;
+	  font-size: 30px;
+	  font-family: 'Lato', sans-serif;
+	  height: 40px;
+	  text-align: center;
+	  width: 38px;
+	  position: absolute;
+	  right: 13px;
+	  top: 257px;
+}
 .ctn-nosotros-info{
-	height: 700px;
+	height: 850px;
 	margin-top: 25px;
 	width: 100%;
 }
@@ -308,6 +320,40 @@ body{
   margin-top: -60px;
   width: 390px;
 }
-
-
-
+.list-home-caracteristicas{
+	background: url(../images/bullet-car.png) no-repeat;
+	color: white;
+	font-size: 14px;
+	padding-left: 25px;
+	height: 30px;
+	  margin-left: 20px;
+  margin-top: -5px;
+  width: 390px;
+}
+.list-home-caracteristicas2{
+	background: url(../images/bullet-car.png) no-repeat;
+	color: white;
+	font-size: 14px;
+	padding-left: 25px;
+	height: 30px;
+	  margin-left: 20px;
+  margin-top: 0px;
+  width: 390px;
+}
+.ctn-galeria{
+	margin: 0 auto; 
+	margin-top: 110px;
+	height: 200px;
+	width: 950px;
+}
+.title-galeria{
+	color: #4d4d4d;
+	font-size: 40px;
+}
+.filete-galeria{
+	border-left: 2px solid #4d4d4d;
+	border-right: 2px solid #4d4d4d;
+	border-top: 2px solid #4d4d4d;
+	height: 20px;
+	width: 950px;
+}
