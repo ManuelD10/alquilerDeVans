@@ -249,19 +249,65 @@ body{
 	width: 390px;
 }
 .ctn-ofrecemos{
-	background: red;
 	margin-top: 20px;
-	height: 137px;
-	width: 331px;
+	height: 230px;
+	width: 400px;
+}
+.ctn-ofrecemos-info{
+	background: #4d4d4d;
+	border-radius: 8px;
+	color: white;
+	font-size: 14px;
+	padding: 20px;
+	height: 150px;
+  	width: 360px;
 }
 .ctn-caracteristicas{
-	background: red;
-	height: 137px;
+	height: 230px;
 	margin-left: 50px;
 	margin-top: 20px;
-	width: 331px;
+	width: 400px;
 }
-
+.list-home-ofrecemos{
+	background: url(../images/bullet-car.png) no-repeat;
+	color: white;
+	font-size: 14px;
+	padding-left: 25px;
+	height: 40px;
+	  margin-left: 69px;
+  margin-top: -135px;
+	width: 390px;
+}
+.list-home-ofrecemos2{
+	background: url(../images/bullet-car.png) no-repeat;
+	color: white;
+	font-size: 14px;
+	padding-left: 25px;
+	height: 40px;
+	  margin-left: 69px;
+  margin-top: -114px;
+	width: 390px;
+}
+.list-home-ofrecemos3{
+	background: url(../images/bullet-car.png) no-repeat;
+	color: white;
+	font-size: 14px;
+	padding-left: 25px;
+	height: 40px;
+	  margin-left: 69px;
+  margin-top: -88px;
+  width: 390px;
+}
+.list-home-ofrecemos4{
+	background: url(../images/bullet-car.png) no-repeat;
+	color: white;
+	font-size: 14px;
+	padding-left: 25px;
+	height: 40px;
+	  margin-left: 69px;
+  margin-top: -60px;
+  width: 390px;
+}
 
 
 
